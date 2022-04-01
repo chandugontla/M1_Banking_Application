@@ -1,6 +1,6 @@
 /**
  * @file CBank_Header.h
- * @author {Umesh} ({umeshpalivela890@gmail.com})
+ * @author {chandrashekar} ({gontla.chandrashekar2000@gmail.com})
  * @brief 
  * @version 0.1
  * @date 2022-02-10
