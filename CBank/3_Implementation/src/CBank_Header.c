@@ -1,9 +1,9 @@
 /**
  * @file CBank_Header.c
- * @author {Umesh} ({umeshpalivela890@gmail.com})
+ * @author {Chandrashekar} ({gontla.chandrashekar2000@gmail.com})
  * @brief 
  * @version 0.1
- * @date 2022-02-10
+ * @date 2022-03-1
  * 
  * @copyright Copyright (c) 2022
  * 
