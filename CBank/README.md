@@ -8,5 +8,5 @@ With a secret password an admin can login to the application and then view a com
 ## User Mode ##
 User can view his/her account details, Update the account details, The Balance in the account, Transfer money to other's account, Get the interest details (Depending upon the eligibility).
 
-![](https://github.com/Umeshpalivela/M1_Banking_Application)
+![](https://github.com/chandugontla/M1_Banking_Application)
 
